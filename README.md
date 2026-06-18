@@ -37,11 +37,11 @@ I am a Research Associate in Health Economics within the Health Economics and Eq
 
 ### Connect With Me
 
-🎓 [Google Scholar] (https://scholar.google.com/citations?hl=en&user=gjw7LfEAAAAJ&view_op=list_works&authuser=3&sortby=pubdate)
+🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=gjw7LfEAAAAJ&view_op=list_works&authuser=3&sortby=pubdate)
 
-𝕏 Twitter/X: (https://x.com/munzir_malik)
+ 𝕏 [Twitter/X](https://x.com/munzir_malik)
 
-📧 Email: (mailto:munzirm@liverpool.ac.uk)
+ 📧 [Email:](mailto:munzirm@liverpool.ac.uk)
 
 ---
 
