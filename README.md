@@ -1,39 +1,30 @@
-# Manzoor Malik 
+# Manzoor Malik
 
-## Research Associate | Health Economics | Public Health | Data Science
+Research Associate, University of Liverpool
 
-I am a Research Associate in Health Economics within the Health Economics and Equity (HEEL) Group at the University of Liverpool. My work focuses on economic evaluation, public health research, health inequalities, and the use of linked administrative data to evaluate household socio-economic support interventions.
+**Health Economics • Economic Evaluation • Mental Wellbeing • Climate change & Population Health**
 
-### Current Roles
+---
 
-* 🎓 **Research Associate**, University of Liverpool (HEEL Group)
+## About Me
 
-* 🌍 **Honorary Research Associate**, Imperial College London
+I am a Research Associate in Health Economics within the Health Economics and Equity (HEEL) Group at the University of Liverpool. My work focuses on economic evaluation, population health, health inequalities, and linked administrative data to evaluate household socio-economic support interventions and population wellbeing.
 
-### Previous Experience
+## Current Roles
 
-* 📊 **Research Fellow**, University of Huddersfield
+- 🎓 Research Associate, University of Liverpool (HEEL Group)
+- 🌍 Honorary Research Associate, Imperial College London
 
-### Research Interests
+## Research Interests
 
-* Appiled Micro Economics
-* Economic Evaluation
-* Mental Wellbeing
-* Health Inequalities
-* Climate and Health
-* Epidemiology
-* Statistical Modelling
-* Linked Administrative Data
-* Population Health Analytics
-
-### Technical Skills
-
-* R
-* Stata
-* Econometric Modelling
-* Health Economic Evaluation
-* Data Linkage
-  
+- Health Economics
+- Economic Evaluation
+- Public Health
+- Mental Wellbeing
+- Climate & Health
+- Epidemiology
+- Statistical Modelling
+- Population Health Analytics
 
 ### Connect With Me
 
@@ -41,7 +32,7 @@ I am a Research Associate in Health Economics within the Health Economics and Eq
 
  𝕏 [Twitter/X](https://x.com/munzir_malik)
 
- 📧 [Email:](mailto:munzirm@liverpool.ac.uk)
+ 📧 [Email](mailto:munzirm@liverpool.ac.uk)
 
 ---
 
